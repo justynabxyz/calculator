@@ -1,5 +1,6 @@
 
 
-int main():
+def main():
   print("Hello World")
-  return 0;
+  return 0
+
